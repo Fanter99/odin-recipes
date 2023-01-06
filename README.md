@@ -1,1 +1,1 @@
-read me!
+basic task for the Odin Project, where you schould make a recipe page
